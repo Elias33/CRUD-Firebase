@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Firebasetest</string>
+
+    <array name="section">
+        <item>A</item>
+        <item>B</item>
+        <item>C</item>
+        <item>D</item>
+
+    </array>
+</resources>
